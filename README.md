@@ -7,5 +7,5 @@
 - Compile & Run command used
 `javac gui/Main.java && java -classpath /usr/share/java/mariadb-jdbc/mariadb-java-client.jar:. gui.Main`
 
-By Premdeep Maiti, 10622537, Sem -IV, FTD in Comp. Sci. Engg.
+By Premdeep Maiti
 ---
